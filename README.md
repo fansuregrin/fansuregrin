@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fansuregrin
 - 👀 I’m interested in Machine Learning, Deep Learning, Linux ...
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Image Processing.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Image Processing and Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Send messages to pwz113436@gmail.com to contact me!
 
