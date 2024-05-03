@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Underwater Image Enhancement.
 - 📫 Send messages to pwz113436@gmail.com to contact me!
 
-[![FansureGrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fansuregrin)](https://github.com/fansuregrin/)
+[![FansureGrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fansuregrin&show_icons=true&theme=tokyonight)](https://github.com/fansuregrin/)
 
 <!---
 fansuregrin/fansuregrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
