@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fansuregrin
 - 👀 I’m interested in Java, C++, Python, Linux, Rust, Deep Learning ...
-- 🌱 I’m currently learning **Java**, **Vue3**, C++, and Deep Learning.
-- 💞️ I’m looking to collaborate on Underwater Image Enhancement.
+- 🌱 I’m currently learning Java, C++, and Deep Learning.
+- 💞️ I’m looking to collaborate on AI.
 - 📫 Send messages to pwz113436@gmail.com to contact me!
 
 [![FansureGrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fansuregrin&show_icons=true&theme=tokyonight)](https://github.com/fansuregrin/)
